@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"P",
+				"P_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"di",
+				"display\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/anThink/Telink_SIG_Mesh-master",
+		"/E/anThink/Telink_SIG_Mesh-master/example",
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh",
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh/app",
+		"/E/anThink/Telink_SIG_Mesh-master/SDK_3.1.5"
+	],
+	"file_history":
+	[
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh/app/main.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh/app/app.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh/app/app_config_8258.h",
+		"/E/anThink/Telink_SIG_Mesh-master/SDK_3.1.5/proj/common/log.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/SFS_Ali_Mesh/app/app_att.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/main.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/app_uart.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/app.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/mesh/mesh_common.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/mesh/mesh.mk",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/app_config_8258.h",
+		"/E/anThink/Telink_SIG_Mesh-master/SDK_3.1.5/proj_lib/sig_mesh/app_mesh.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/mesh/mesh_common.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/mesh/app_provison.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/mesh/mesh_config.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/Plug_Ali_Mesh/mesh/mesh_common.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/makefile",
+		"/E/anThink/Telink_SIG_Mesh-master/example/AT_Ali_Mesh/app/app.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/AT_Ali_Mesh/app/app_uart.c",
+		"/E/anThink/Telink_SIG_Mesh-master/example/AT_Ali_Mesh/app/at_cmd.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/AT_Ali_Mesh/app/at_cmd.c",
+		"/E/anThink/Telink_SIG_Mesh-master/SDK_3.1.5/drivers/8258/uart.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app.mk",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/app_uart.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/RGBCW_Ali_Mesh/app/app_config_8269.h",
+		"/E/anThink/Telink_SIG_Mesh-master/example/AT_Ali_Mesh/app/main.c",
+		"/E/anThink/Telink_825X_SDK-master/example/freeRTOS_Demo/main.c",
+		"/E/anThink/Telink_825X_SDK-master/example/freeRTOS_Demo/app_uart.c",
+		"/E/anThink/Telink_825X_SDK-master/components/drivers/8258/uart.h",
+		"/E/anThink/Telink_825X_SDK-master/example/blink/main.c",
+		"/E/anThink/Telink_825X_SDK-master/example/blink/app_config.h",
+		"/E/anThink/Telink_825X_SDK-master/example/blink/makefile",
+		"/E/anThink/Telink_825X_SDK-master/components/common/log.c",
+		"/E/anThink/Telink_825X_SDK-master/example/at/app.c",
+		"/E/anThink/Telink_825X_SDK-master/example/at/app_uart.c",
+		"/E/anThink/Telink_825X_SDK-master/components/application/print/u_printf.c",
+		"/E/anThink/Telink_825X_SDK-master/example/uart_test/app_config.h",
+		"/E/anThink/Telink_825X_SDK-master/components/application/print/putchar.c",
+		"/E/anThink/Telink_825X_SDK-master/example/uart_test/app_uart.c",
+		"/E/anThink/Telink_825X_SDK-master/components/application/print/u_printf.h",
+		"/E/anThink/Telink_825X_SDK-master/example/uart_test/main.c",
+		"/E/anThink/Telink_825X_SDK-master/example/at/at_cmd.c",
+		"/E/anThink/Telink_825X_SDK-master/example/at/main.c",
+		"/E/anThink/Telink_SIG_Mesh-master/SDK_3.1.5/proj/mcu/config.h",
+		"/E/esp-idf-v4.0.1/examples/bluetooth/esp_ble_mesh/ble_mesh_node/onoff_client/main/ble_mesh_demo_main.c",
+		"/C/Users/ideaz/Desktop/ecs_cn-hangzhou_sg-bp1i924df6sagbwtkuf3.json",
+		"/E/esp-idf-v4.0.1/examples/peripherals/gpio/main/gpio_example_main.c",
+		"/E/esp-idf-v4.0.1/examples/bluetooth/esp_ble_mesh/ble_mesh_node/onoff_client/build/config/sdkconfig.h",
+		"/E/esp-idf-v4.0.1/examples/mesh/manual_networking/main/mesh_main.c",
+		"/E/esp-idf-v4.0.1/examples/mesh/manual_networking/main/mesh_light.c",
+		"/E/esp-idf-v4.0.1/examples/bluetooth/esp_ble_mesh/ble_mesh_node/onoff_client/main/ble_mesh_demo_init.h",
+		"/E/esp-idf-v4.0.1/examples/bluetooth/esp_ble_mesh/ble_mesh_node/onoff_client/main/ble_mesh_demo_init.c",
+		"/E/esp-idf-v4.0.1/components/log/include/esp_log.h",
+		"/E/esp-idf-v4.0.1/examples/get-started/hello_world/main/hello_world_main.c",
+		"/E/vue-project/mytest/vue03/src/router/index.js",
+		"/E/vue-project/mytest/vue03/src/assets/logo.png",
+		"/E/vue-project/mytest/vue03/src/components/HelloWorld1.vue",
+		"/E/vue-project/mytest/vue03/src/components/HelloWorld.vue",
+		"/E/vue-project/mytest/vue03/src/main.js",
+		"/E/vue-project/mytest/vue03/src/App.vue",
+		"/E/vue-project/mytest/vue03/config/index.js",
+		"/E/Program Files/nodejs/npm",
+		"/C/Users/ideaz/Desktop/New Text Document.txt",
+		"/F/万事达/1001-项目/1000-运动-荣耀R1/SVN/软件/H5/h5_001/static/js/vue.js",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/GPIO/include/ca51f_config.h",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/LCD_Simple/source/WORK.c",
+		"/D/1005_项目/9001-芯片/6002-PThread/pt-1.4/README",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/GPIO/include/uart.h",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/GPIO/source/uart.c",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/GPIO/source/main.c",
+		"/D/1005_项目/1001-杀菌杯/软件/trunk/CA51F3_Touch_DemoProj _v3.3/ca51f_config.h",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/UDP/udp_start.php",
+		"/F/Keil_v5/ARM/Segger/JLinkARM.dll",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/WORK/user_nbiot_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/WORK/user_modbus_cntrl.c",
+		"/C/Users/ideaz/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/ideaz/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/Workerman-master/Worker.php",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/HARDWARE/LCD/font.h",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/canvas/js4c5097.html",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/index.php",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/index.html",
+		"/D/1001_公司/5006_服务器/SVN/HT_SERVER.git/trunk/New Text Document.txt",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/HARDWARE/LCD/icon.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/USER/test.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/版本B/stm3_V7.17/HARDWARE/LCD/icon.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/ATKNCR/atk_ncr.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/MENU/QR_code_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/MENU/time_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/MENU/hcho_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/MENU/co2_show.h",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/NB_V2.0.1/IP/stm32/MENU/menu_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/旧板，6合1/NB/IP/stm32/MENU/all_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/旧板，6合1/NB/IP/stm32/MENU/menu_show.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/版本B/stm3_V7.17/WORK/user_key_task.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/版本B/stm3_V7.17/WORK/user_watch_task.c",
+		"/D/1005_项目/1008-空气检测仪/软件/1008_KONGQIZHILIANG.git/trunk/版本B/stm3_V7.17/WORK/user_data_save.h",
+		"/D/1005_项目/1008-空气检测仪/软件/版本B/stm3_V7.17/WORK/all_sensor_task.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_oneself_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/软件/版本B/stm3_V7.17/WORK/clock_control.h",
+		"/C/Users/ideaz/Desktop/Link OB调试器资料20141020/相关软件及驱动/Setup_JLink_V492.zip",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_data_save.c",
+		"/D/1005_项目/1003-碗筷消毒盒/软件/GPIO/source/uart.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_modbus_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/USER/test.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_register_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_gprs_cntrl - 备份1.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_onenet_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_onenet_cntrl.h",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/MyPt/thread.h",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/MyPt/pt-1.4/pt.h",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/keilkill.bat",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_register_cntrl.h",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_nbiot_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/user_gprs_cntrl.c",
+		"/D/1005_项目/1008-空气检测仪/检测仪协议/版本Z01/版本B/stm3_V7.17/WORK/all_sensor_task.h",
+		"/F/Program Files (x86)/Corel/CorelDRAW Graphics Suite X6/Setup/Setup.Xml",
+		"/C/Program Files (x86)/Corel/CorelDRAW Graphics Suite X6/Setup/Setup.Xml",
+		"/D/1005_项目/1007-电热水壶/软件/HT_SHUIHU_1/source/hot.c",
+		"/D/1005_项目/1007-电热水壶/软件/HT_SHUIHU_1/source/main.c",
+		"/C/Users/ideaz/Desktop/浓香正宗中国味道LOGO竖式.cdr",
+		"/D/1005_项目/1007-电热水壶/软件/SHUIHU/source/main.c",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/index.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/message.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/detials.php",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/contact.html",
+		"/D/1001_公司/5006_服务器/SVN/web/trunk/about.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"E:\\anThink\\Telink_SIG_Mesh-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DEBUG_INFO_TX_PIN",
+			"GATEWAY_ENABLE",
+			"uart",
+			"baud",
+			"uart_rx_fifo",
+			"uart_hw_tx_buf",
+			"baud",
+			"DEBUG_INFO_TX_PIN",
+			"HCI_LOG_FW_EN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\anThink\\Telink_SIG_Mesh-master"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 466.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
