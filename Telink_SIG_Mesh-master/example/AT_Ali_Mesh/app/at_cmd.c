@@ -81,7 +81,7 @@ static unsigned char data_process_parse(char *pbuf,  int mode, int len)
 //AT命令入口
 void at_data_process(char *pbuf, int len)
 {
-     at_print("test\n\r");
+     at_print("V1.0.1\n\r");
     if (pbuf == NULL || len == 0) return;
 
     if((pbuf[len - 1] == 0x0A) || (pbuf[len - 1] == 0x0D))
