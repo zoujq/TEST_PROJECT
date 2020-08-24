@@ -86,7 +86,7 @@ extern "C" {
 #define UART_RX_PIN		UART_RX_PB0
 #endif
 
-#define HCI_LOG_FW_EN   1
+#define HCI_LOG_FW_EN   0
 #if HCI_LOG_FW_EN
 #define DEBUG_INFO_TX_PIN           		GPIO_PB6
 #define PRINT_DEBUG_INFO                    1

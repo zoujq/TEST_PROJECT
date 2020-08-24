@@ -105,6 +105,7 @@ void app_uart_init(AT_BAUD baud)
 
 void at_print(char * str)
 {
+	uart_send_byte('C');
 	while(*str)
 	{
 		trans_buff.data[trans_buff.dma_len] = *str++;
