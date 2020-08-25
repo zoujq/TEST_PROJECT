@@ -1262,11 +1262,17 @@ const mesh_cmd_sig_func_t mesh_cmd_sig_func[] = {
 mesh_search_model_id_by_op():
 get model id, call back function, status command flag
 */
+extern void at_print(char * str);
 int mesh_search_model_id_by_op(mesh_op_resource_t *op_res, u16 op, u8 tx_flag)
 {
     memset(op_res, 0, sizeof(mesh_op_resource_t));
 
 	LOG_MSG_INFO(TL_LOG_COMMON,0, 0,"Recv op:%X..........",op);
+
+	char s_b[50]={0};
+	sprintf(s_b,"Recv op:%X\n\r",op);
+	at_print(s_b);
+	
     
     u8 op_type = GET_OP_TYPE(op);
     if(OP_TYPE_VENDOR == op_type){
