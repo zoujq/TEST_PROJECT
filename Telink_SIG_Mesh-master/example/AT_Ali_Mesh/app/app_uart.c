@@ -23,6 +23,7 @@
 #include "drivers.h"
 #include "stack/ble/ble.h"
 #include "at_cmd.h"
+#include "stdio.h"
 
 #define UART_DATA_LEN    12+256     //data max ?    (UART_DATA_LEN+4) must 16 byte aligned
 
@@ -105,7 +106,6 @@ void app_uart_init(AT_BAUD baud)
 
 void at_print(char * str)
 {
-	uart_send_byte('C');
 	while(*str)
 	{
 		trans_buff.data[trans_buff.dma_len] = *str++;
